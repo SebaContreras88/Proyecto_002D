@@ -1,2 +1,2 @@
 # Proyecto_002D
-Lucas, David y Sebastián
+Poryecto PGY3121 - 002D Lucas, David y Sebastián
